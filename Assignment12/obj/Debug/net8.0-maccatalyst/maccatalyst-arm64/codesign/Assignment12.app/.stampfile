@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/thekhawhom/Projects/Assignment12/Assignment12/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/thekhawhom/Projects/Assignment12/Assignment12/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment12.app

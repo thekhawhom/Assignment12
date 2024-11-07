@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/thekhawhom/Projects/Assignment12/Assignment12/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Assignment12.app/Contents/MonoBundle/libe_sqlite3.dylib
